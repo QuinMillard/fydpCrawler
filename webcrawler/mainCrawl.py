@@ -6,3 +6,4 @@ data = RequestWrapper()
 
 aac_crawler = AACResourceCrawler()
 aac_crawler.crawl(data)
+print("afd")
